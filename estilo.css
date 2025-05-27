@@ -1,0 +1,29 @@
+.container{
+    text-align: auto;
+    color: white;
+    padding: 3cm;
+    max-width: calc(60% - 6cm);
+    margin: auto;
+    display: flex;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("tuba.jpg");
+    background-position: auto;
+    background-size: auto;
+  }
+.logo{
+    text-align: center;
+    color: white;
+    padding: 3cm; /*espaçamento entre margem e o texto*/
+    background: rgba(0, 0, 0, 0.6);
+    max-width: calc(60% - 6cm);
+    margin: auto;
+    
+}
