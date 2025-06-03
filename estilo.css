@@ -1,0 +1,38 @@
+.container{
+    text-align: auto;
+    color: white;
+    padding: 3cm;
+    max-width: calc(60% - 6cm);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+body {
+    font-family:Times New Roman;
+    align-items: center;
+    font-size: larger;
+    background-image: url("tuba4k.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+.logo{
+    text-align: center;
+    color: white;
+    padding: 3cm; /*espaçamento entre margem e o texto*/
+    background: rgba(0, 0, 0, 0.6);
+    max-width: calc(60% - 6cm);
+    margin: auto;
+    border-radius: 245px;
+}
+button {
+    padding: 20px 48px;
+    background-color:rgba(247, 243, 243, 0.4);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    font-size: 20px;
+    height: 80px;
+    margin: 15 auto;
+    display: block;
+    font-family: serif;
+}
