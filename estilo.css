@@ -1,0 +1,43 @@
+*{
+    font-family: "Edu QLD Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  .container{
+      text-align: auto;
+      color: white;
+      padding: 3cm;
+      max-width: calc(50%);
+      margin: auto;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      
+  }
+  body {
+      font-family:Times New Roman;
+      align-items: center;
+      font-size: larger;
+      background-image: url("tuba4K.jpg");
+      background-repeat: no-repeat;
+      background-size: 100%;
+    }
+  .logo{
+      text-align: center;
+      color: white;
+      padding: 2cm; /*espaçamento entre margem e o texto*/
+      background: rgba(0, 0, 0, 0.6);
+      max-width: calc(65% - 1cm);
+      margin: auto;
+      border-radius: 254px;
+  }
+  button {
+      padding: 20px 48px;
+      background-color:rgba(247, 243, 243, 0.4);
+      color: rgb(0, 0, 0);
+      border-radius: 20px;
+      font-size: 20px;
+      height: 120px;
+      margin: 0px auto;
+  }
